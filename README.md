@@ -6,15 +6,9 @@
 - Hive/CKP
 - Google API
 
----
-
 # VDI
 
----
-
 # Local
-
----
 
 # Server
 - Hosts GUI (Dash app)
@@ -22,7 +16,5 @@
 - Stores historical metrics for each program
 - Runs scheduled task (Celery)
 - Uploads and retrieves data from FTP
-
----
 
 # Slack Bot
