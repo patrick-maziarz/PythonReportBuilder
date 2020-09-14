@@ -9,6 +9,9 @@
 # VDI
 
 # Local
+- Go to www.reportbuilder.thefreeosk.com
+- Configurate options to generate a Google Slides report
+- Submit and go to report and opens up a new tab with the Google Slides doc
 
 # Server
 - Hosts GUI (Dash app)
